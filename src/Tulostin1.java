@@ -4,7 +4,7 @@ public class Tulostin1 {
         System.out.println("Hei, olen Tulostin-ohjelma");
         System.out.print("Ohjelman tekijä: ");
         String name;
-        name = "YenHoang";
+        name = "Yen";
         System.out.println(name);
 
         double luku1, luku2, tulo, sum, ero, jako;
