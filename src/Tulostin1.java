@@ -16,13 +16,14 @@ public class Tulostin1 {
         ero = luku1 - luku2;
         System.out.println(luku1 + " - " + luku2 + " = " + ero);
 
+        tulo = luku1 * luku2;
+        System.out.println(luku1 + " * " + luku2 + " = " + tulo);
+
         jako = luku1 / luku2;
         System.out.println(luku1 + " / " + luku2 + " = " + jako);
 
         sum = luku1 + luku2;
         System.out.println(luku1 + " + " + luku2 + " = " + sum);
 
-        tulo = luku1 * luku2;
-        System.out.println(luku1 + " * " + luku2 + " = " + tulo);
     }
 }
